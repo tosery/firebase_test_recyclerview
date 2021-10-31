@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800208740229",
+    "firebase_url": "https://fir-listexample-d4a4c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-listexample-d4a4c",
+    "storage_bucket": "fir-listexample-d4a4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800208740229:android:0d537bc39b77e583012eec",
+        "android_client_info": {
+          "package_name": "com.example.hong_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800208740229-6hfk6turu89rrg1beuli13skcrgmbccq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFlneDKXFv1kdKje7A79JLrkjIYI-auk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800208740229-6hfk6turu89rrg1beuli13skcrgmbccq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
